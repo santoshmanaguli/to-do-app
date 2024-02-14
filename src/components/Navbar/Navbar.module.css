@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    color: black;
+    background-color: lightcyan;
+    align-items: center;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.headerText {
+    font-weight: 600;
+    margin: auto
+}
+
+.sideBar{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.sideBarContainer{
+    position: absolute;
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+}
